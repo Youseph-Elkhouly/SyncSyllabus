@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  position: relative;
+}
+
+#logo {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+#title {
+  margin: auto;
+  text-align: center;
+}
+
+#footer {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
